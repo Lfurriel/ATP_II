@@ -1,2 +1,3 @@
-# 2-Semestre
-Nesse repositório estão os trabalhos e exercícios praticados no meu 2º semestre no curso de ciência da computação
+Aqui estão os projetos praticados no 2º semestre da faculdade
+
+Setembro/2002 - Janeiro/2023
